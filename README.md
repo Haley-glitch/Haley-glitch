@@ -1,74 +1,58 @@
-# 👋 Hi, I'm **Haley Patel**
+### Hi, I'm Haley 👋
 
-🎓 **Computer Science & Mathematics Student @ UMBC**  
-💡 Passionate about **Machine Learning, Data Science, and Software Engineering**  
-🌱 Exploring **AI-driven signal processing** and **human-centered computing**  
-📍 Maryland, USA  
-📧 [hpatel21@umbc.edu](mailto:hpatel21@umbc.edu) | [LinkedIn](https://www.linkedin.com/in/haley-patel-4a8a44353/) | [GitHub](https://github.com/Haley-glitch)
+I'm a **Math & CS undergrad at UMBC** (GPA 4.0) headed to **Columbia's MS Financial Engineering** program. I build things at the intersection of **machine learning, signal processing, and quantitative research** — and I love teaching along the way.
 
 ---
 
-## 🧠 About Me
-I’m a **Teaching Fellow, Peer Educator, and Machine Learning Researcher** with over 2 years of experience supporting students, developing algorithms, and conducting hands-on research in computer vision.  
-I’m driven by innovation that merges **AI, data, and real-world impact** — from improving healthcare through contactless monitoring to making learning more accessible through intelligent systems.
+## 🔬 What I Work On
+
+- **ML Research** — Optical flow models (RAFT, FlowNet2) for contactless physiological monitoring @ UMBC's Mobile & Pervasive Computing Lab
+- **Quant + Finance** — Exploring ML-driven approaches to financial modeling and time series analysis
+- **Teaching** — Teaching Fellow for Data Structures; tutored 50+ students across 15+ STEM subjects
 
 ---
 
-## 💻 Technical Skills
-**Languages:** Python, C++, JavaScript, R, SQL  
-**Frameworks & Tools:** ReactJS, Flask, GitHub, VS Code, Google Colab, MATLAB  
-**Libraries:** NumPy, pandas, Scikit-Learn, Matplotlib, OpenCV, PyTorch
+## 🏆 Featured Project
+
+### [DigiText – AI-Powered Notetaking Converter](https://devpost.com/software/digitext) 🥇
+> Converts handwritten notes + lecture audio into structured Markdown/LaTeX using Google Gemini  
+> `Python` `Flask` `React` `REST API` — **1st Place @ MorganHack 2025** (50+ teams)
 
 ---
 
-## 🔬 Experience
+## 🛠️ Tech Stack
 
-### 🧑‍🏫 Teaching Fellow – Data Structures (Fall 2025)
-**UMBC Department of Information Technology and Engineering**  
-- Supported 50+ students in debugging, optimizing, and mastering advanced C++ data structures.  
-- Evaluated 50+ programming projects for performance and OOP design.  
-- Reinforced algorithmic thinking through personalized guidance and graded assessments.
-
-### 🧪 Research Intern – NSF REU (Summer 2025)
-**Mobile, Pervasive, and Sensor Computing Lab, UMBC**  
-- Developed **Python/NumPy** algorithms for physiological video preprocessing and respiratory signal extraction.  
-- Implemented **RAFT** and **FlowNet2** optical flow models in **PyTorch**, boosting respiratory rate estimation accuracy by **15–20%**.  
-- Presented weekly progress through data visualizations and quantitative analyses.
-
-### 👩‍🏫 Peer Educator – Academic & Computing Success Centers (2024–2025)
-- Tutored 50+ students across 15+ STEM subjects including **Data Structures, Linear Algebra, and Python/C++ programming**.  
-- Explained complex topics like **recursion, OOP, and Big-O** in an accessible and engaging way.  
-- Helped students develop strong problem-solving foundations and academic confidence.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-### 🧾 [DigiText – AI-Powered Notetaking Converter](https://devpost.com/software/digitext)
-*Python | Flask | React | Google Gemini API*  
-- Converts handwritten notes + lecture audio into clean, structured Markdown/KaTeX.  
-- Built REST APIs and a responsive UI to streamline note digitization.  
-- 🥇 **1st Place Winner** at **MorganHack 2025** among 50+ teams.
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Haley-glitch&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haley-glitch&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
 ## 🎓 Education
-**University of Maryland, Baltimore County (UMBC)**  
-B.S. in **Computer Science & Mathematics** (2023–2026) | GPA: **4.0/4.0**  
-📚 Relevant Coursework: Machine Learning, Artificial Intelligence, Data Structures, Advanced Linear Algebra, Probability, Real Analysis  
-🎯 Planning to pursue **M.S. in Financial Mathematics and Data Science (2026–2028)**
+
+| | |
+|---|---|
+| **Columbia University** | M.S. Financial Engineering, 2026–2027 |
+| **UMBC** | B.S. Computer Science & Mathematics, 2023–2026 · GPA 4.0 |
 
 ---
 
-## 🌟 Interests
-- AI for Healthcare and Human Wellbeing  
-- Signal & Image Processing  
-- Financial Data Modeling  
-- Teaching & Mentorship  
+## 📫 Let's Connect
 
----
+Open to research collaborations and internship opportunities in **AI/ML and quantitative finance.**
 
-## ✨ Let’s Connect!
-💬 Open to research collaborations and internship opportunities in **AI, ML, and Data Science.**  
-📫 Reach me at [hpatel21@umbc.edu](mailto:hpatel21@umbc.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/haley-patel-4a8a44353/) | [GitHub](https://github.com/Haley-glitch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haley-patel-4a8a44353/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hpatel21@umbc.edu)
